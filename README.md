@@ -1,4 +1,4 @@
-# Day 10 Lab — Reliability Engineering for Production Agents
+# Day 25 Lab Assignments — Reliability Engineering for Production Agents
 
 Build a production-style reliability layer for an LLM agent gateway. The starter repo provides core architecture, interfaces, tests, and TODO zones — you implement all the reliability logic from scratch.
 
